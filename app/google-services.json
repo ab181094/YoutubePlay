@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "839505031034",
+    "firebase_url": "https://medicalcarenew.firebaseio.com",
+    "project_id": "medicalcarenew",
+    "storage_bucket": "medicalcarenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839505031034:android:63a6a3fe00e02b8f",
+        "android_client_info": {
+          "package_name": "com.csecu.amrit.medicalcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839505031034-pi7ojjmggpua5aepnoiri52lq8g7h5qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csecu.amrit.medicalcare",
+            "certificate_hash": "7159c0e11205de9942ba36f3ae59e3904b875756"
+          }
+        },
+        {
+          "client_id": "839505031034-0bsprfqcbsqq7l85mbjvll86gqbni405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmBmRSZONHiFxEzK2e4Ps7KdX_jsiJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839505031034-0bsprfqcbsqq7l85mbjvll86gqbni405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839505031034:android:49a63774a1c34a1a",
+        "android_client_info": {
+          "package_name": "com.example.youtubeplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839505031034-kvkuao16j4mlifjpuq3q4dojaqfth7c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.youtubeplay",
+            "certificate_hash": "079e8145e839b6bdc650d6c9dabe8db4f31c738c"
+          }
+        },
+        {
+          "client_id": "839505031034-0bsprfqcbsqq7l85mbjvll86gqbni405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmBmRSZONHiFxEzK2e4Ps7KdX_jsiJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839505031034-0bsprfqcbsqq7l85mbjvll86gqbni405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
